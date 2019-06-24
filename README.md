@@ -1,3 +1,2 @@
-# Java 8 Project Template
-Single Java 8 Maven Template
-
+# Java8
+Java 8 topics from Netec Course
